@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Diploma/static/css/main.7acaea2f.css",
+    "main.js": "/Diploma/static/js/main.e80b5039.js",
+    "index.html": "/Diploma/index.html",
+    "main.7acaea2f.css.map": "/Diploma/static/css/main.7acaea2f.css.map",
+    "main.e80b5039.js.map": "/Diploma/static/js/main.e80b5039.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.e80b5039.js"
+  ]
+}
